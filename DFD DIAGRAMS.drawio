@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T14:57:31.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5xjiJUagW-H5ltgZ_rOF" version="20.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-11T15:28:14.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="loLfc-PSUhGfkGi921X_" version="20.4.0" type="github" pages="8">
   <diagram id="bA3dlDeZSmGhRniMjFoe" name="Level 0 DFD">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,7 +168,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rXS8knwM6X45NrJREj6B" name="Level 2 DFD (Order Queue List)">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,28 +179,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYRf-ZZt3cct-153R33X-1" value="Customer Relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="305" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="327.5" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DYRf-ZZt3cct-153R33X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DYRf-ZZt3cct-153R33X-2" target="DYRf-ZZt3cct-153R33X-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DYRf-ZZt3cct-153R33X-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="542.5" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y1qT6aI9dCKPfBpN73sy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5_2813eQHdgGQaD4lmZm-1" target="y1qT6aI9dCKPfBpN73sy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5_2813eQHdgGQaD4lmZm-1" value="Order Queue List" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;dx=5;dy=10;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="270" width="135" height="90" as="geometry" />
+          <mxGeometry x="130" y="290" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5_2813eQHdgGQaD4lmZm-3" value="Inquiry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="462.5" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5_2813eQHdgGQaD4lmZm-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="110" y="147.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="130" y="167.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5_2813eQHdgGQaD4lmZm-9" value="D" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="5_2813eQHdgGQaD4lmZm-17" vertex="1">
-          <mxGeometry width="130" height="45" as="geometry" />
+          <mxGeometry x="2.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5_2813eQHdgGQaD4lmZm-10" value="Order Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="5_2813eQHdgGQaD4lmZm-17" vertex="1">
           <mxGeometry x="40" y="7.5" width="60" height="30" as="geometry" />
@@ -209,13 +209,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y1qT6aI9dCKPfBpN73sy-5" value="Customer Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="325" y="265" width="80" height="100" as="geometry" />
+          <mxGeometry x="347.5" y="285" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RyZXiVgUWgAvCr95qtm2" name="Level 2 DFD (Inventory Management)">
-    <mxGraphModel dx="1422" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gpqT1ZyUy8lCyg0mmY5V" name="Level 2 DFD (Customer Bank)">
-    <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h047D5BeBJHMSFGpoM1Z" name="Level 2 DFD (Business Analytics)">
-    <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,21 +404,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uM5hwxMdLRJelfbQzC5A" name="Level 2 DFD(Import Screenshot)">
-    <mxGraphModel dx="526" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e2TBjBxEdAyzH4wHJoTP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2TBjBxEdAyzH4wHJoTP-2" target="e2TBjBxEdAyzH4wHJoTP-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2TBjBxEdAyzH4wHJoTP-2" value="&lt;strong style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-family: Calibri; background-color: rgb(255, 255, 255);&quot; data-colorparams=&quot;#000000_null_null&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Insert Screenshot to AKBAY&lt;/font&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="516" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="e2TBjBxEdAyzH4wHJoTP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2TBjBxEdAyzH4wHJoTP-4" target="e2TBjBxEdAyzH4wHJoTP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2TBjBxEdAyzH4wHJoTP-4" value="&lt;strong style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-family: Calibri; background-color: rgb(255, 255, 255);&quot; data-colorparams=&quot;#000000_null_null&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Customer relations&lt;/font&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="216" y="550" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mqb9DyKzTnac2MePSqwo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e2TBjBxEdAyzH4wHJoTP-6" target="Mqb9DyKzTnac2MePSqwo-2">
+        <mxCell id="e2TBjBxEdAyzH4wHJoTP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2TBjBxEdAyzH4wHJoTP-6" target="e2TBjBxEdAyzH4wHJoTP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e2TBjBxEdAyzH4wHJoTP-6" value="&lt;strong style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-family: Calibri; background-color: rgb(255, 255, 255);&quot; data-colorparams=&quot;#000000_null_null&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Screenshot Customer Information&lt;/font&gt;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e2TBjBxEdAyzH4wHJoTP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e2TBjBxEdAyzH4wHJoTP-8" target="e2TBjBxEdAyzH4wHJoTP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -435,18 +441,14 @@
         <mxCell id="e2TBjBxEdAyzH4wHJoTP-11" value="&lt;strong style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-family: Calibri; font-size: 15px; background-color: rgb(255, 255, 255);&quot; data-colorparams=&quot;#000000_null_null&quot;&gt;Save information into customer Database&lt;/strong&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="658.5" y="680" width="125" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Mqb9DyKzTnac2MePSqwo-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="510" y="550" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mqb9DyKzTnac2MePSqwo-2" value="D&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="Mqb9DyKzTnac2MePSqwo-1">
-          <mxGeometry width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mqb9DyKzTnac2MePSqwo-10" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Mqb9DyKzTnac2MePSqwo-1">
-          <mxGeometry x="50" y="15" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Mqb9DyKzTnac2MePSqwo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mqb9DyKzTnac2MePSqwo-2" target="e2TBjBxEdAyzH4wHJoTP-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D6gHZAJuEdDCQku68h2O" name="Level 2 DFD(Business Calendar)">
+    <mxGraphModel dx="1278" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
