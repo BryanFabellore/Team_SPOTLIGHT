@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T11:50:32.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3MG-bWiKIMRb_7yd2Mbe" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-11T12:03:04.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8cKVWd6APxlWoA3ZHbTL" version="20.4.0" type="github" pages="6">
   <diagram id="bA3dlDeZSmGhRniMjFoe" name="Level 0 DFD">
     <mxGraphModel dx="1278" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6FnAvoRVASCSsdeu4zaB" name="Level 1 DFD">
-    <mxGraphModel dx="2128" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2354" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,6 +370,35 @@
         </mxCell>
         <mxCell id="PbyQcGZz1t0oOU-YN9o6-16" value="Uploading Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h047D5BeBJHMSFGpoM1Z" name="Level 2 DFD (Business Analytics)">
+    <mxGraphModel dx="2128" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1toyNuGhjmfHfQxEifY6-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3NcfyN4kKfGJyUNJ9LfS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aobkX_6Ex0fPHtxpCkJ1-1" target="3NcfyN4kKfGJyUNJ9LfS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NcfyN4kKfGJyUNJ9LfS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aobkX_6Ex0fPHtxpCkJ1-1" target="1toyNuGhjmfHfQxEifY6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aobkX_6Ex0fPHtxpCkJ1-1" value="Business Analytics" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="265" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3NcfyN4kKfGJyUNJ9LfS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3NcfyN4kKfGJyUNJ9LfS-1" target="aobkX_6Ex0fPHtxpCkJ1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3NcfyN4kKfGJyUNJ9LfS-1" value="Data Bank" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3NcfyN4kKfGJyUNJ9LfS-6" value="Output Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="280" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
