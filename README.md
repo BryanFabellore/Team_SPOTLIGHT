@@ -1,5 +1,5 @@
 # Team_SPOTLIGHT
-This Repository contatin the materials and diagrams needed to build Project Akbay
+This Repository contains the materials and diagrams needed to build Project Akbay
 
 DFD Diagrams
 UML
